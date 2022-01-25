@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 429.73940000000016,
+    "videos": [
         "Rockdrigo Gonzalez _ Tiempo de Hibridos _ Rancho Electronico-X3L3fGfQTBw.mp4",
         "Roi-4NOMFBRfaT0.mp4",
         "RIP - Evil (4 Skins)-6Cc-ydDHvz4.mp4",
@@ -52,7 +53,5 @@
         "Rancho Alegre-qjVOyyiA6yQ.mp4",
         "Rancid - 'Time Bomb'-DhKHAopx7D0.mp4",
         "RAMONES - All The Way-K4Qi5PMbQ5s.mp4"
-    ],
-    "id": "r1",
-    "total_size": 409.831232421875
+    ]
 }
