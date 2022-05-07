@@ -1,57 +1,261 @@
 {
     "available_space": true,
-    "total_size": 429.73940000000016,
-    "videos": [
-        "Rockdrigo Gonzalez _ Tiempo de Hibridos _ Rancho Electronico-X3L3fGfQTBw.mp4",
-        "Roi-4NOMFBRfaT0.mp4",
-        "RIP - Evil (4 Skins)-6Cc-ydDHvz4.mp4",
-        "Ramones - Spider-Man-i5P8lrgBtcU.mp4",
-        "REBELD PUNK ANARQUIA-V00ht3OYnnk.mp4",
-        "R.I.P. - Mundo muerto-GlS16ZTzVfg.mp4",
-        "Rihanna - Take A Bow (Official Music Video)-J3UjJ4wKLkg.mp4",
-        "Rancid - 'Ruby Soho'-0P9QMkm9Eew.mp4",
-        "R.I.P. - Titulurik gabe - PUNKAREN 25 URTEKO HISTORIA BIZIA - HISTORIA VIVA DEL PUNK (2006)-t9Mu53Pv-K0.mp4",
-        "Ruperta-V9sgCoxIgmg.mp4",
-        "Rey Pobre  'Conjunto Primavera'-Gt3ZMxY4Lwg.mp4",
-        "Radioactivo - El taquero parodia Gimme the Power-2LRynRozqSA.mp4",
-        "Rip - Odio a mi patria-sgnBynkhfCQ.mp4",
-        "Rhiannon Giddens + Francesco Turrisi _ Calling Me Home _ Other Voices 19-3YqUUqH8tZI.mp4",
-        "Resistire - Los Muertos De Cristo-Nn-aCbJw6Y4.mp4",
-        "RIP - Crimen de Estado-J-0rMDKSkno.mp4",
-        "Ramiro Sierra-CKNi8tuhhCo.mp4",
-        "Rogelio Garza-eNZgj-XMAbA.mp4",
-        "Roy Orbison - Only the Lonely (Black & White Night 30)-D6Aw3ZnqQrY.mp4",
-        "Rezaré-fpMSVtBdZpU.mp4",
-        "RODRIGO GONZALEZ_ROCK DEL ETE-yJPGfA9FDDY.mp4",
-        "Rage Against The Machine - Know Your Enemy (Audio)-JukTvlrh-Wk.mp4",
-        "ramon vega (la cancion que te dedico)-gj25PckeOx8.mp4",
-        "Ripeness-yOnOUSxaJ-0.mp4",
-        "Regresa A Mi Lado-nmzErd9Biqo.mp4",
-        "Ross Lynch - On My Own (From 'Teen Beach 2')-ZFRMOG82SF0.mp4",
-        "RAMONES - Chinese Rock-57nPAqBPGPE.mp4",
-        "Ramon Vega Chiquitita-EN1-fC5Jln8.mp4",
-        "Respirando Muerte-hOdCP7QSpdA.mp4",
-        "Razzle Dazzle-9OfT8y9XqjA.mp4",
-        "Revenga-qOl7m52TQk8.mp4",
-        "RIP - Txapelgorri-IsrcXhBXLqw.mp4",
-        "RAMONES - Baby, I Love You-AGlZwwtp92A.mp4",
-        "Ricky Martin - Pégate (Live)-1G2-r-5ZwnY.mp4",
-        "Rammstein - Stripped (Official Video)-10JDA8SvwX8.mp4",
-        "Rebel 'D Punk - San Felipe Es Punk-BzDzE22Nq80.mp4",
-        "Rage Against The Machine - Killing In the Name (Official Music Video)-bWXazVhlyxQ.mp4",
-        "rata blanca bajo control Video Oficial HD-lOWwR_giV9E.mp4",
-        "Renato Carosone -  Tu Vuò Fa' L'Americano-BqlJwMFtMCs.mp4",
-        "R.I.P - Vamos a pisar la sociedad-f6uxnjt1h4w.mp4",
-        "Rossini - William Tell Overture - Final-c7O91GDWGPU.mp4",
-        "R.I.P. - Antipolítica-mHl9jPfkRog.mp4",
-        "Ramiro Sierra-SyKr6xe3XPI.mp4",
-        "Russian Red - Everyday Everynight-nRYtp5NENt0.mp4",
-        "Rodrigo Gonzalez-Las aventuras en el defe-mZ3x9C2mA9o.mp4",
-        "Roy Orbison and Friends - 'Dream Baby' - from 'Black and White Night'-ANy4x3wgTSA.mp4",
-        "Ramones - Rock N' Roll High School (Official Music Video)-oz7KYUkdlvE.mp4",
-        "Recordando a los Valientes-6A2wtZHNUPk.mp4",
-        "Rancho Alegre-qjVOyyiA6yQ.mp4",
-        "Rancid - 'Time Bomb'-DhKHAopx7D0.mp4",
-        "RAMONES - All The Way-K4Qi5PMbQ5s.mp4"
-    ]
+    "files": [
+        {
+            "name": "Rockdrigo Gonzalez _ Tiempo de Hibridos _ Rancho Electronico-X3L3fGfQTBw.mp4",
+            "path": "music_r1/videos/Rockdrigo Gonzalez _ Tiempo de Hibridos _ Rancho Electronico-X3L3fGfQTBw.mp4",
+            "size": 14.872290304000002
+        },
+        {
+            "name": "Roi-4NOMFBRfaT0.mp4",
+            "path": "music_r1/videos/Roi-4NOMFBRfaT0.mp4",
+            "size": 7.621515264
+        },
+        {
+            "name": "RIP - Evil (4 Skins)-6Cc-ydDHvz4.mp4",
+            "path": "music_r1/videos/RIP - Evil (4 Skins)-6Cc-ydDHvz4.mp4",
+            "size": 3.204299776
+        },
+        {
+            "name": "Ramones - Spider-Man-i5P8lrgBtcU.mp4",
+            "path": "music_r1/videos/Ramones - Spider-Man-i5P8lrgBtcU.mp4",
+            "size": 7.6900014080000005
+        },
+        {
+            "name": "REBELD PUNK ANARQUIA-V00ht3OYnnk.mp4",
+            "path": "music_r1/videos/REBELD PUNK ANARQUIA-V00ht3OYnnk.mp4",
+            "size": 7.834216448
+        },
+        {
+            "name": "R.I.P. - Mundo muerto-GlS16ZTzVfg.mp4",
+            "path": "music_r1/videos/R.I.P. - Mundo muerto-GlS16ZTzVfg.mp4",
+            "size": 6.334553088000001
+        },
+        {
+            "name": "Rihanna - Take A Bow (Official Music Video)-J3UjJ4wKLkg.mp4",
+            "path": "music_r1/videos/Rihanna - Take A Bow (Official Music Video)-J3UjJ4wKLkg.mp4",
+            "size": 11.141269504
+        },
+        {
+            "name": "Rancid - 'Ruby Soho'-0P9QMkm9Eew.mp4",
+            "path": "music_r1/videos/Rancid - 'Ruby Soho'-0P9QMkm9Eew.mp4",
+            "size": 11.459412992
+        },
+        {
+            "name": "R.I.P. - Titulurik gabe - PUNKAREN 25 URTEKO HISTORIA BIZIA - HISTORIA VIVA DEL PUNK (2006)-t9Mu53Pv-K0.mp4",
+            "path": "music_r1/videos/R.I.P. - Titulurik gabe - PUNKAREN 25 URTEKO HISTORIA BIZIA - HISTORIA VIVA DEL PUNK (2006)-t9Mu53Pv-K0.mp4",
+            "size": 3.5857981440000004
+        },
+        {
+            "name": "Ruperta-V9sgCoxIgmg.mp4",
+            "path": "music_r1/videos/Ruperta-V9sgCoxIgmg.mp4",
+            "size": 3.9615498240000004
+        },
+        {
+            "name": "Rey Pobre  'Conjunto Primavera'-Gt3ZMxY4Lwg.mp4",
+            "path": "music_r1/videos/Rey Pobre  'Conjunto Primavera'-Gt3ZMxY4Lwg.mp4",
+            "size": 8.428572672000001
+        },
+        {
+            "name": "Radioactivo - El taquero parodia Gimme the Power-2LRynRozqSA.mp4",
+            "path": "music_r1/videos/Radioactivo - El taquero parodia Gimme the Power-2LRynRozqSA.mp4",
+            "size": 5.978198016
+        },
+        {
+            "name": "Rip - Odio a mi patria-sgnBynkhfCQ.mp4",
+            "path": "music_r1/videos/Rip - Odio a mi patria-sgnBynkhfCQ.mp4",
+            "size": 4.879889408
+        },
+        {
+            "name": "Rhiannon Giddens + Francesco Turrisi _ Calling Me Home _ Other Voices 19-3YqUUqH8tZI.mp4",
+            "path": "music_r1/videos/Rhiannon Giddens + Francesco Turrisi _ Calling Me Home _ Other Voices 19-3YqUUqH8tZI.mp4",
+            "size": 14.200077312000001
+        },
+        {
+            "name": "Resistire - Los Muertos De Cristo-Nn-aCbJw6Y4.mp4",
+            "path": "music_r1/videos/Resistire - Los Muertos De Cristo-Nn-aCbJw6Y4.mp4",
+            "size": 5.528671232000001
+        },
+        {
+            "name": "RIP - Crimen de Estado-J-0rMDKSkno.mp4",
+            "path": "music_r1/videos/RIP - Crimen de Estado-J-0rMDKSkno.mp4",
+            "size": 4.19959808
+        },
+        {
+            "name": "Ramiro Sierra-CKNi8tuhhCo.mp4",
+            "path": "music_r1/videos/Ramiro Sierra-CKNi8tuhhCo.mp4",
+            "size": 6.806678528000001
+        },
+        {
+            "name": "Rogelio Garza-eNZgj-XMAbA.mp4",
+            "path": "music_r1/videos/Rogelio Garza-eNZgj-XMAbA.mp4",
+            "size": 5.0723450880000005
+        },
+        {
+            "name": "Roy Orbison - Only the Lonely (Black & White Night 30)-D6Aw3ZnqQrY.mp4",
+            "path": "music_r1/videos/Roy Orbison - Only the Lonely (Black & White Night 30)-D6Aw3ZnqQrY.mp4",
+            "size": 9.502716928
+        },
+        {
+            "name": "Rezaré-fpMSVtBdZpU.mp4",
+            "path": "music_r1/videos/Rezaré-fpMSVtBdZpU.mp4",
+            "size": 5.899255808
+        },
+        {
+            "name": "RODRIGO GONZALEZ_ROCK DEL ETE-yJPGfA9FDDY.mp4",
+            "path": "music_r1/videos/RODRIGO GONZALEZ_ROCK DEL ETE-yJPGfA9FDDY.mp4",
+            "size": 9.878076416
+        },
+        {
+            "name": "Rage Against The Machine - Know Your Enemy (Audio)-JukTvlrh-Wk.mp4",
+            "path": "music_r1/videos/Rage Against The Machine - Know Your Enemy (Audio)-JukTvlrh-Wk.mp4",
+            "size": 10.481361920000001
+        },
+        {
+            "name": "ramon vega (la cancion que te dedico)-gj25PckeOx8.mp4",
+            "path": "music_r1/videos/ramon vega (la cancion que te dedico)-gj25PckeOx8.mp4",
+            "size": 4.495810560000001
+        },
+        {
+            "name": "Ripeness-yOnOUSxaJ-0.mp4",
+            "path": "music_r1/videos/Ripeness-yOnOUSxaJ-0.mp4",
+            "size": 9.430479872000001
+        },
+        {
+            "name": "Regresa A Mi Lado-nmzErd9Biqo.mp4",
+            "path": "music_r1/videos/Regresa A Mi Lado-nmzErd9Biqo.mp4",
+            "size": 2.8400209920000004
+        },
+        {
+            "name": "Ross Lynch - On My Own (From 'Teen Beach 2')-ZFRMOG82SF0.mp4",
+            "path": "music_r1/videos/Ross Lynch - On My Own (From 'Teen Beach 2')-ZFRMOG82SF0.mp4",
+            "size": 10.919131136
+        },
+        {
+            "name": "RAMONES - Chinese Rock-57nPAqBPGPE.mp4",
+            "path": "music_r1/videos/RAMONES - Chinese Rock-57nPAqBPGPE.mp4",
+            "size": 3.00468736
+        },
+        {
+            "name": "Ramon Vega Chiquitita-EN1-fC5Jln8.mp4",
+            "path": "music_r1/videos/Ramon Vega Chiquitita-EN1-fC5Jln8.mp4",
+            "size": 6.0058306560000005
+        },
+        {
+            "name": "Respirando Muerte-hOdCP7QSpdA.mp4",
+            "path": "music_r1/videos/Respirando Muerte-hOdCP7QSpdA.mp4",
+            "size": 8.253832192
+        },
+        {
+            "name": "Razzle Dazzle-9OfT8y9XqjA.mp4",
+            "path": "music_r1/videos/Razzle Dazzle-9OfT8y9XqjA.mp4",
+            "size": 6.727474176
+        },
+        {
+            "name": "Revenga-qOl7m52TQk8.mp4",
+            "path": "music_r1/videos/Revenga-qOl7m52TQk8.mp4",
+            "size": 4.015085568
+        },
+        {
+            "name": "RIP - Txapelgorri-IsrcXhBXLqw.mp4",
+            "path": "music_r1/videos/RIP - Txapelgorri-IsrcXhBXLqw.mp4",
+            "size": 3.567783936
+        },
+        {
+            "name": "RAMONES - Baby, I Love You-AGlZwwtp92A.mp4",
+            "path": "music_r1/videos/RAMONES - Baby, I Love You-AGlZwwtp92A.mp4",
+            "size": 4.58310144
+        },
+        {
+            "name": "Ricky Martin - Pégate (Live)-1G2-r-5ZwnY.mp4",
+            "path": "music_r1/videos/Ricky Martin - Pégate (Live)-1G2-r-5ZwnY.mp4",
+            "size": 21.113419776
+        },
+        {
+            "name": "Rammstein - Stripped (Official Video)-10JDA8SvwX8.mp4",
+            "path": "music_r1/videos/Rammstein - Stripped (Official Video)-10JDA8SvwX8.mp4",
+            "size": 25.143354368
+        },
+        {
+            "name": "Rebel 'D Punk - San Felipe Es Punk-BzDzE22Nq80.mp4",
+            "path": "music_r1/videos/Rebel 'D Punk - San Felipe Es Punk-BzDzE22Nq80.mp4",
+            "size": 7.321005056000001
+        },
+        {
+            "name": "Rage Against The Machine - Killing In the Name (Official Music Video)-bWXazVhlyxQ.mp4",
+            "path": "music_r1/videos/Rage Against The Machine - Killing In the Name (Official Music Video)-bWXazVhlyxQ.mp4",
+            "size": 25.167467520000002
+        },
+        {
+            "name": "rata blanca bajo control Video Oficial HD-lOWwR_giV9E.mp4",
+            "path": "music_r1/videos/rata blanca bajo control Video Oficial HD-lOWwR_giV9E.mp4",
+            "size": 25.198287872
+        },
+        {
+            "name": "Renato Carosone -  Tu Vuò Fa' L'Americano-BqlJwMFtMCs.mp4",
+            "path": "music_r1/videos/Renato Carosone -  Tu Vuò Fa' L'Americano-BqlJwMFtMCs.mp4",
+            "size": 12.616547328000001
+        },
+        {
+            "name": "R.I.P - Vamos a pisar la sociedad-f6uxnjt1h4w.mp4",
+            "path": "music_r1/videos/R.I.P - Vamos a pisar la sociedad-f6uxnjt1h4w.mp4",
+            "size": 2.9970001920000002
+        },
+        {
+            "name": "Rossini - William Tell Overture - Final-c7O91GDWGPU.mp4",
+            "path": "music_r1/videos/Rossini - William Tell Overture - Final-c7O91GDWGPU.mp4",
+            "size": 6.590519296
+        },
+        {
+            "name": "R.I.P. - Antipolítica-mHl9jPfkRog.mp4",
+            "path": "music_r1/videos/R.I.P. - Antipolítica-mHl9jPfkRog.mp4",
+            "size": 3.080280064
+        },
+        {
+            "name": "Ramiro Sierra-SyKr6xe3XPI.mp4",
+            "path": "music_r1/videos/Ramiro Sierra-SyKr6xe3XPI.mp4",
+            "size": 7.827296256
+        },
+        {
+            "name": "Russian Red - Everyday Everynight-nRYtp5NENt0.mp4",
+            "path": "music_r1/videos/Russian Red - Everyday Everynight-nRYtp5NENt0.mp4",
+            "size": 5.03385088
+        },
+        {
+            "name": "Rodrigo Gonzalez-Las aventuras en el defe-mZ3x9C2mA9o.mp4",
+            "path": "music_r1/videos/Rodrigo Gonzalez-Las aventuras en el defe-mZ3x9C2mA9o.mp4",
+            "size": 7.555979264
+        },
+        {
+            "name": "Roy Orbison and Friends - 'Dream Baby' - from 'Black and White Night'-ANy4x3wgTSA.mp4",
+            "path": "music_r1/videos/Roy Orbison and Friends - 'Dream Baby' - from 'Black and White Night'-ANy4x3wgTSA.mp4",
+            "size": 17.547730944
+        },
+        {
+            "name": "Ramones - Rock N' Roll High School (Official Music Video)-oz7KYUkdlvE.mp4",
+            "path": "music_r1/videos/Ramones - Rock N' Roll High School (Official Music Video)-oz7KYUkdlvE.mp4",
+            "size": 8.469107712000001
+        },
+        {
+            "name": "Recordando a los Valientes-6A2wtZHNUPk.mp4",
+            "path": "music_r1/videos/Recordando a los Valientes-6A2wtZHNUPk.mp4",
+            "size": 4.9693388800000005
+        },
+        {
+            "name": "Rancho Alegre-qjVOyyiA6yQ.mp4",
+            "path": "music_r1/videos/Rancho Alegre-qjVOyyiA6yQ.mp4",
+            "size": 5.008560128
+        },
+        {
+            "name": "Rancid - 'Time Bomb'-DhKHAopx7D0.mp4",
+            "path": "music_r1/videos/Rancid - 'Time Bomb'-DhKHAopx7D0.mp4",
+            "size": 8.720951296
+        },
+        {
+            "name": "RAMONES - All The Way-K4Qi5PMbQ5s.mp4",
+            "path": "music_r1/videos/RAMONES - All The Way-K4Qi5PMbQ5s.mp4",
+            "size": 2.974911488
+        }
+    ],
+    "total_size": 429.739194368
 }
