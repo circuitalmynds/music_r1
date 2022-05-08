@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Joan Manuel Serrat - Hoy Puede Ser un Gran Día (Lyric Video)-_qBpcloExbk.mp4",
+            "path": "music_r1/videos/Joan Manuel Serrat - Hoy Puede Ser un Gran Día (Lyric Video)-_qBpcloExbk.mp4",
+            "size": 8.723807232
+        },
+        {
             "name": "You'll Have To Swing It (Mr. Paganini)-0RoHPwNqtgM.mp4",
             "path": "music_r1/videos/You'll Have To Swing It (Mr. Paganini)-0RoHPwNqtgM.mp4",
             "size": 3.2154961920000003
@@ -367,5 +372,5 @@
             "size": 15.76467968
         }
     ],
-    "total_size": 684.4522004479999
+    "total_size": 693.1760076799999
 }
