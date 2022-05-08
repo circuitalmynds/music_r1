@@ -117,6 +117,11 @@
             "size": 10.481361920000001
         },
         {
+            "name": "05Julio Iglesias - Si me dejas no vale-kPneAq4VPbk.mp4",
+            "path": "music_r1/videos/05Julio Iglesias - Si me dejas no vale-kPneAq4VPbk.mp4",
+            "size": 4.842416128
+        },
+        {
             "name": "ramon vega (la cancion que te dedico)-gj25PckeOx8.mp4",
             "path": "music_r1/videos/ramon vega (la cancion que te dedico)-gj25PckeOx8.mp4",
             "size": 4.495810560000001
@@ -267,5 +272,5 @@
             "size": 2.974911488
         }
     ],
-    "total_size": 491.74134784000006
+    "total_size": 496.583763968
 }
