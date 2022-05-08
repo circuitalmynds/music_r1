@@ -82,6 +82,11 @@
             "size": 5.978198016
         },
         {
+            "name": "Saint-Saens - The Carnival of the Animals-8F1a3LoDJGg.mp4",
+            "path": "music_r1/videos/Saint-Saens - The Carnival of the Animals-8F1a3LoDJGg.mp4",
+            "size": 33.13803264
+        },
+        {
             "name": "Rip - Odio a mi patria-sgnBynkhfCQ.mp4",
             "path": "music_r1/videos/Rip - Odio a mi patria-sgnBynkhfCQ.mp4",
             "size": 4.879889408
@@ -337,5 +342,5 @@
             "size": 21.482677248
         }
     ],
-    "total_size": 595.34998016
+    "total_size": 628.4880128
 }
