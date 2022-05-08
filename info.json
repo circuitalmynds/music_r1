@@ -42,6 +42,11 @@
             "size": 6.334553088000001
         },
         {
+            "name": "The Essence - The Cat (Music Video)-o3msi5AmAJg.mp4",
+            "path": "music_r1/videos/The Essence - The Cat (Music Video)-o3msi5AmAJg.mp4",
+            "size": 15.687233536
+        },
+        {
             "name": "Rihanna - Take A Bow (Official Music Video)-J3UjJ4wKLkg.mp4",
             "path": "music_r1/videos/Rihanna - Take A Bow (Official Music Video)-J3UjJ4wKLkg.mp4",
             "size": 11.141269504
@@ -352,5 +357,5 @@
             "size": 14.11543552
         }
     ],
-    "total_size": 645.421459456
+    "total_size": 661.1086929919999
 }
