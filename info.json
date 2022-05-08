@@ -232,6 +232,11 @@
             "size": 7.827296256
         },
         {
+            "name": "Trans-Europe Express (2009 Remaster)-i_85fUIRlmU.mp4",
+            "path": "music_r1/videos/Trans-Europe Express (2009 Remaster)-i_85fUIRlmU.mp4",
+            "size": 7.3142067200000005
+        },
+        {
             "name": "Russian Red - Everyday Everynight-nRYtp5NENt0.mp4",
             "path": "music_r1/videos/Russian Red - Everyday Everynight-nRYtp5NENt0.mp4",
             "size": 5.03385088
@@ -272,5 +277,5 @@
             "size": 2.974911488
         }
     ],
-    "total_size": 496.583763968
+    "total_size": 503.89797068800004
 }
