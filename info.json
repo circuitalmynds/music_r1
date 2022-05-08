@@ -62,6 +62,11 @@
             "size": 10.933598208000001
         },
         {
+            "name": "Kraftwerk - Computer Love-ZtWTUt2RZh0.mp4",
+            "path": "music_r1/videos/Kraftwerk - Computer Love-ZtWTUt2RZh0.mp4",
+            "size": 9.86300928
+        },
+        {
             "name": "Rey Pobre  'Conjunto Primavera'-Gt3ZMxY4Lwg.mp4",
             "path": "music_r1/videos/Rey Pobre  'Conjunto Primavera'-Gt3ZMxY4Lwg.mp4",
             "size": 8.428572672000001
@@ -327,5 +332,5 @@
             "size": 21.482677248
         }
     ],
-    "total_size": 582.2714746879999
+    "total_size": 592.1344839679999
 }
