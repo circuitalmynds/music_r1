@@ -162,6 +162,11 @@
             "size": 51.068555264000004
         },
         {
+            "name": "Johann Strauss II - New Pizzicato Polka-dVRG3b1v5jk.mp4",
+            "path": "music_r1/videos/Johann Strauss II - New Pizzicato Polka-dVRG3b1v5jk.mp4",
+            "size": 4.359732224
+        },
+        {
             "name": "Respirando Muerte-hOdCP7QSpdA.mp4",
             "path": "music_r1/videos/Respirando Muerte-hOdCP7QSpdA.mp4",
             "size": 8.253832192
@@ -287,5 +292,5 @@
             "size": 2.974911488
         }
     ],
-    "total_size": 515.605924864
+    "total_size": 519.9656570880001
 }
